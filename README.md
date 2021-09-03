@@ -1,5 +1,5 @@
 # shell
-Simulation of Shell command line for linux
+## Simulation of Shell command line for linux
 
 My project from 3-rd semester of CMC MSU
 
