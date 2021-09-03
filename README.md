@@ -10,3 +10,5 @@ My project from 3-rd semester of CMC MSU
 - make conveyor of programs using | (./program1 | program2 | program3, so program1 output will be input for program2 etc.)
 - and combine this possibilities.
 
+Program will make any your command until EOF (ctrl + C)
+
