@@ -1,7 +1,7 @@
 # shell
 ## Simulation of Shell command line for linux
 
-My project from 3-rd semester of CMC MSU
+My study project from 3-rd semester of CMC MSU
 
   You can 
 - enter any command, that bash has, like ls, cd, pwd, cat etc.,
